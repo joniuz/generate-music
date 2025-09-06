@@ -2,7 +2,6 @@ import click
 from datetime import datetime
 from typing import List, Dict
 from midiutil import MIDIFile
-#from pyo import *
 import random
 import mido
 import time
