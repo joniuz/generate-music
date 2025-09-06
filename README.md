@@ -65,4 +65,4 @@ Have a great day Coders!
 
 ### Joniuz Update 2025-09-06
 
-The pio library was not working on my Mac, then I modified the program to work with the Mido library and send midi messages to my Korg Volca FM. I added more scales and made the user interface a more friendly.
+The pyo library was not working on my Mac, then I modified the program to work with the Mido library and send midi messages to my Korg Volca FM. I added more scales and made the user interface a more friendly.
