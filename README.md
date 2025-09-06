@@ -62,3 +62,7 @@ Each generation all melodies are saved in midi format to disk using the followin
 This melody generation script is far from perfect and any contribution is welcome. Please feel free to fork this repository. Any pull request or comment is welcome!
 
 Have a great day Coders!
+
+### Joniuz Update 2025-09-06
+
+The pio library was not working on my Mac, then I modified the program to work with the Mido library and send midi messages to my Korg Volca FM. I added more scales and made the user interface a more friendly.
